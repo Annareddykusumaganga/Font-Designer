@@ -51,7 +51,7 @@ function App(){
         </div>
         <div id="colors">
            <div id="text-clr">
-            <h3>Selecttext-color you want to apply....</h3>
+            <h3>Select text-color you want to apply....</h3>
            </div>
            <div id="txt-clr">
               <button id="purple" onClick={()=>{textColor("purple")}}></button>
